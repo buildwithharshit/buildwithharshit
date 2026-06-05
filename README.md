@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects, personal tools, and building a strong portfolio of real-world applications.<br><br>👯 I’m looking to collaborate on innovative projects, open-source contributions, and startup-oriented ideas.<br><br>🤝 I’m looking for help with software architecture, scalable applications, UI/UX design, and modern development practices.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript, Git, GitHub, and the fundamentals of building impactful digital products.<br><br>💬 Ask me about web development, project building, productivity, GitHub, and turning ideas into reality.<br><br>⚡ Fun fact: I’m passionate about technology, entrepreneurship, and building solutions that can create real-world impact. My goal is to continuously learn, build, and eventually create products and businesses that help people at scale.<br>
+<p>🔭 I’m currently building web development projects, experimenting with new ideas, and growing my portfolio through hands-on learning.</p>
+
+<p>👯 I’m interested in collaborating on web applications, open-source projects, and creative solutions to real-world problems.</p>
+
+<p>🤝 I’m always looking to learn from experienced developers and improve my skills in software development, UI/UX, and product building.</p>
+
+<p>🌱 Currently learning HTML, CSS, JavaScript, Git, GitHub, and the fundamentals of building impactful digital products.</p>
+
+<p>💬 Ask me about web development, project building, GitHub, productivity, and turning ideas into reality.</p>
+
+<p>⚡ I’m passionate about technology, entrepreneurship, and solving meaningful problems. My long-term goal is to combine business thinking with software development to build products that create value at scale.</p>
 
 
 ## 🌐 Socials:
