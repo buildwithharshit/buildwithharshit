@@ -1,34 +1,17 @@
-# 💫 About Me:
-<p>🔭 I’m currently building web development projects, experimenting with new ideas, and growing my portfolio through hands-on learning.</p>
+## 💫 About Me
 
-<p>👯 I’m interested in collaborating on web applications, open-source projects, and creative solutions to real-world problems.</p>
+👋 Hi, I’m Harshit — a BBA student exploring the intersection of **business, technology, and product development**.
 
-<p>🤝 I’m always looking to learn from experienced developers and improve my skills in software development, UI/UX, and product building.</p>
+🔭 I’m building web projects and experimenting with AI-powered tools to turn ideas into practical solutions.
 
-<p>🌱 Currently learning HTML, CSS, JavaScript, Git, GitHub, and the fundamentals of building impactful digital products.</p>
+🌱 Currently learning **HTML, CSS, JavaScript, Python, Git, and GitHub** while strengthening my foundations in software development.
 
-<p>💬 Ask me about web development, project building, GitHub, productivity, and turning ideas into reality.</p>
+🛠️ I enjoy building projects, exploring new technologies, and learning by solving real-world problems.
 
-<p>⚡ I’m passionate about technology, entrepreneurship, and solving meaningful problems. My long-term goal is to combine business thinking with software development to build products that create value at scale.</p>
+🤝 Open to collaborating on web applications, beginner-friendly open-source projects, and ideas that combine technology with business.
 
+💡 Interested in **AI automation, digital products, entrepreneurship, and product building**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.harshityadav) 
+🎯 My long-term goal is to combine business thinking with technology to build useful products and meaningful ventures.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=buildwithharshit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=buildwithharshit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildwithharshit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=buildwithharshit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 Connect with me on [Instagram](https://instagram.com/i.harshityadav).
